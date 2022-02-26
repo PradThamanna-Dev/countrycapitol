@@ -1,2 +1,2 @@
 # countrycapitol
-Country and their Capitol information
+Country and their Capitol information.
